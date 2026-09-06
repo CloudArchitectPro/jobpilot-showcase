@@ -74,8 +74,12 @@ Every table enforces per-owner isolation via Postgres Row-Level Security — `au
 **Passkey-only login** — no passwords stored, WebAuthn end to end.
 ![Login screen](./screenshots/01-login.png)
 
+---
+
 **Dashboard** — live job feed with per-posting fit scoring, source/platform filters, and application status tracking.
 ![Dashboard](./screenshots/02-dashboard.png)
+
+---
 
 **Job detail view** — job description, document tracking, and the AI tailoring trigger for that specific posting.
 ![Job detail](./screenshots/03-job-detail.png)
